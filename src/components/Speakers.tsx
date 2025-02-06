@@ -6,7 +6,6 @@ import clsx from "clsx";
 
 import { Container } from "@/components/Container";
 import { Badge } from "./ui/badge";
-import TextFlip from "./text-flip";
 import { Compass, MailIcon } from "lucide-react";
 
 const ECT = () => (
