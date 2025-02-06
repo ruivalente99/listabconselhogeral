@@ -32,7 +32,7 @@ const days = [
       {
         name: "Fernando Gonçalves",
         role: "Mestrado em Engenharia Agronómica",
-        image: "/images/avatars/Fernando-01.png",
+        image: "/images/avatars/fernando.jpeg",
         badge: ECAV,
         email: "",
       },
@@ -131,7 +131,7 @@ export function Speakers() {
               Membros e Mandatário
             </h2>
           </div>
-          <TextFlip />
+          {/* <TextFlip /> */}
           <p className="font-display mt-4 text-2xl tracking-tight text-fuchsia-900">
             Conheça os membros e o mandatário da Lista B
           </p>
