@@ -46,7 +46,7 @@ const days = [
         name: "Eduarda Fernandes",
         role: "Mestrado Integrado em Medicina Veterinária",
         image: "/images/avatars/duda.jpg",
-        badge: ECVA,
+        badge: ECAV,
         email: "",
       },
       {
