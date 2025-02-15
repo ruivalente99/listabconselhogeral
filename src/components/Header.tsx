@@ -21,7 +21,7 @@ export function Header() {
           </div>
           <Button
             className="items-center gap-2 bg-fuchsia-600 hover:bg-fuchsia-700 sm:flex m-4"
-            onClick={() => window.open("/principios-orientadores.pdf")}
+            onClick={() => window.open("/manifesto-eleitoral.pdf")}
           >
             <Download size={16} />
             <div className="hidden sm:mt-10 sm:flex lg:mt-0 lg:grow lg:basis-0 lg:justify-end">
